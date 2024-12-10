@@ -1,0 +1,15 @@
+Babe
+4
+Corkscrew
+
+Wilbur
+7
+Curl Up
+
+Chester
+5
+Curl Right
+
+Barney
+6
+Curl Left
